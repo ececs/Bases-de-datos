@@ -11,7 +11,7 @@ Materiales y tareas de bases de datos organizados por tema, con examenes y pract
 | Tema 3 | [DAM_BD03_Contenido.pdf](Tema%203/DAM_BD03_Contenido.pdf) | [Tarea](Tema%203/Tarea) | [BD03 ER.pdf](Tema%203/BD03_%20Interpretaci%C3%B3n%20de%20diagramas%20entidad-relaci%C3%B3n.pdf), [bae_entidad_relacion.pdf](Tema%203/bae_entidad_relacion.pdf), [Examen BD03 (CAMPUS).pdf](Tema%203/Examen%20para%20BD03.%3A%20Revisi%C3%B3n%20del%20intento%20%7C%20CAMPUS.pdf) |
 | Tema 4 | [BD04.png](Tema%204/BD04.png) | [Cal_Saul_Eudaldo_Alvaro_BD04_Tarea.sql](Tema%204/Cal_Saul_Eudaldo_Alvaro_BD04_Tarea.sql) | [Consultas.sql](Tema%204/Consultas.sql), [Untitled.sql](Tema%204/Untitled.sql), [Untitled. 2sql.sql](Tema%204/Untitled.%202sql.sql) |
 | Tema 5 | - | [BD05 tarea.sql](Tema%205/Tarea/Cal_Saul_Eudaldo_Alvaro_BD05_Tarea.sql), [BD05 tarea.pdf](Tema%205/Tarea/Cal_Saul_Eudaldo_Alvaro_BD05_Tarea.pdf) | [Examen practico Tema 5.sql](Tema%205/Tarea/Cal_Saul_Eudaldo_Alvaro_ExamenPractico_Tema5.sql), [Examen practico Tema 5.pdf](Tema%205/Tarea/Cal_Saul_Eudaldo_Alvaro_ExamenPractico_Tema5.pdf), [Sin titulo.pages](Tema%205/Tarea/Sin%20t%C3%ADtulo.pages) |
-| Tema 6 | [BD06 Programacion de bases de datos.pdf](Tema%206/BD06_Programaci%C3%B3n%20de%20bases%20de%20datos.pdf) | [Cal_Saul_Eudaldo_Alvaro_BD06_Tarea.sql](Tema%206/Cal_Saul_Eudaldo_Alvaro_BD06_Tarea.sql) | [UT6 Programacion MySQL.pdf](Tema%206/UT6%20Programaci%C3%B3n%20de%20bases%20de%20datos%20(MySQL)%20(1).pdf), [Ejercicios.pdf](Tema%206/Ejercicios%20.pdf), [tema 6 ANE.sql](Tema%206/tema%206%20ANE.sql) |
+| Tema 6 | [BD06 Programacion de bases de datos.pdf](Tema%206/BD06_Programaci%C3%B3n%20de%20bases%20de%20datos.pdf) | [Cal_Saul_Eudaldo_Alvaro_BD06_Tarea.sql](Tema%206/Cal_Saul_Eudaldo_Alvaro_BD06_Tarea.sql) | [UT6 Programacion MySQL.pdf](Tema%206/UT6%20Programaci%C3%B3n%20de%20bases%20de%20datos%20(MySQL)%20(1).pdf), [Ejercicios.pdf](Tema%206/Ejercicios%20.pdf), [tema 6 ANE.sql](Tema%206/tema%206%20ANE.sql), [Examen triggers.sql](Tema%206/untitled%20folder/examen_bae_procedimientos_triggers.sql) |
 | Tema 7 | [BD07_Uso de bases de datos objeto-relacionales.pdf](Tema%207/BD07_Uso%20de%20bases%20de%20datos%20objeto-relacionales.pdf) | - | - |
 
 ## Resumen por tema
@@ -30,6 +30,14 @@ Materiales y tareas de bases de datos organizados por tema, con examenes y pract
 - Carpeta de examen: [Examen Final](Examen%20Final)
 - Plantillas: [Plantilla general.sql](Examen%20Final/Plantilla%20general.sql), [Plantilla general prototipo.sql](Examen%20Final/Plantilla%20general%20prototipo.sql)
 - Resumenes PDF: [Plantilla completa examen SQL.pdf](Examen%20Final/%F0%9F%93%8B%20PLANTILLA%20COMPLETA%20PARA%20EXAMEN%20SQL.pdf), [Resumen comandos SQL.pdf](Examen%20Final/%F0%9F%93%9A%20Resumen%20Completo%20-%20Comandos%20SQL%20para%20Examen.pdf)
+
+## Tareas por tema
+
+- Tema 2: [Cal_Saul_Eudaldo_Alvaro_BD02_Tarea.zip](Tema%202/Tarea/Cal_Saul_Eudaldo_Alvaro_BD02_Tarea.zip), [Creatienda.sql](Tema%202/Tarea/Creatienda.sql), [ModificaTienda.sql](Tema%202/Tarea/ModificaTienda.sql)
+- Tema 3: [Cal_Saul_Eudaldo_Alvaro_BD03_Tarea.pdf](Tema%203/Tarea/Cal_Saul_Eudaldo_Alvaro_BD03_Tarea.pdf), [Cal_Saul_Eudaldo_Alvaro_BD03_Tarea.pdf.zip](Tema%203/Tarea/Cal_Saul_Eudaldo_Alvaro_BD03_Tarea.pdf.zip)
+- Tema 4: [Cal_Saul_Eudaldo_Alvaro_BD04_Tarea.sql](Tema%204/Cal_Saul_Eudaldo_Alvaro_BD04_Tarea.sql)
+- Tema 5: [Cal_Saul_Eudaldo_Alvaro_BD05_Tarea.sql](Tema%205/Tarea/Cal_Saul_Eudaldo_Alvaro_BD05_Tarea.sql), [Cal_Saul_Eudaldo_Alvaro_BD05_Tarea.pdf](Tema%205/Tarea/Cal_Saul_Eudaldo_Alvaro_BD05_Tarea.pdf)
+- Tema 6: [Cal_Saul_Eudaldo_Alvaro_BD06_Tarea.sql](Tema%206/Cal_Saul_Eudaldo_Alvaro_BD06_Tarea.sql), [Cal_Saul_Eudaldo_Alvaro_BD06_Tarea.pdf](Tema%206/Cal_Saul_Eudaldo_Alvaro_BD06_Tarea.pdf)
 
 ## Otros archivos en raiz
 
